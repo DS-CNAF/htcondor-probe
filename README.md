@@ -5,10 +5,6 @@ Ubuntu Trusty LTS is the base image used and condor version refer to the [last s
 
 Supervisord is used in order to control different processes spawn.
 
-## Architecture
-
-![Architettura HTCondor](architecture.png)
-
 ## Feature
 * [simple Run](#node-run)
 * [usage](#usage)
